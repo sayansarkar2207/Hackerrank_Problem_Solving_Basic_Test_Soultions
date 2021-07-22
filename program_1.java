@@ -37,7 +37,6 @@ public class Solution {
         int max=0;
         for(i=0;i<n;i++)
         {
-            //System.out.println(b[i]);
             s=s+b[i];
             sum=sum+a[i];
             if(s==dc)
